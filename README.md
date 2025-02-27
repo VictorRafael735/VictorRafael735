@@ -29,6 +29,6 @@ Here is where I showcase my ideas, you know, if I have time to start them.
  - 💼 [LinkedIn](https://www.linkedin.com/in/victor-rafael-9a01341bb/) – If you *really* wanna know me.
 
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+> *"Code is like humor. When you have to explain it, it’s bad."*  
 
 🎉 Thanks for stopping by! Now, back to debugging... 🚀
