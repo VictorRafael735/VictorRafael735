@@ -18,9 +18,9 @@ I am **[Victor]**, a C++ developer who spends more time debugging than actually 
 ---
 
 ## 🌎 Where to Find Me?
-📧 [Email](mailto:victorrafael735@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/victor-rafael-9a01341bb/) – If you *really* wanna know me.
-📝 [Portfolio](https://github.com/VictorRafael735) – Where I showcase my ideas. You know, if have time to start them.
+ - 📧 [Email](mailto:victorrafael735@gmail.com)
+ - 💼 [LinkedIn](https://www.linkedin.com/in/victor-rafael-9a01341bb/) – If you *really* wanna know me.
+ - 📝 [Portfolio](https://github.com/VictorRafael735) – Where I showcase my ideas. You know, if have time to start them.
 
 ---
 
