@@ -14,6 +14,8 @@ I am **Victor**, a C++ developer who spends more time debugging than actually wr
 - ⚡ **Performance Optimization** – Finding that one slow function and blaming it on the compiler. The processor it's never chill enough.
 - 🏗️ **Design Patterns & Best Practices** – Because spaghetti belongs on a plate, not in my codebase.
 
+## 📂 Projects
+ - *WORKING IN PROGRESS.... COME BACK LATER*
 
 ## 🌎 Where to Find Me?
  - 📧 [Email](mailto:victorrafael735@gmail.com)
