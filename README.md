@@ -1,19 +1,19 @@
 # 🚀 Welcome to My GitHub Profile!
 
-👋 Oh hey there! You found my README. Nice. Grab a coffee ☕ and take a look around!  
+👋 Oh hey there! You found my README. Nice. Grab a coffee and take a look around!  
 
-I am **Victor**, a C++ developer who spends more time debugging than actually writing code. 😅
+I am **Victor**, a C++ developer who spends more time debugging than actually writing code.
 
 💻 **C++ | QT Developer | Occasional Bug Creator**  
-🔍 Always exploring new ways to make my code ~~*less terrible*~~ more performatic!
+Always exploring new ways to make my code ~~*less terrible*~~ more performatic!
 
 
 
 ## 🛠️ My Skills
-- 🏎️ **C++** (Modern C++11/14/17/20) – because plain old C just wasn’t chaotic enough.
-- 🎨 **Qt for GUI and Desktop Applications** – Making UIs that usually don’t crash.
-- ⚡ **Performance Optimization** – Finding that one slow function and blaming it on the compiler. The processor it's never chill enough.
-- 🏗️ **Design Patterns & Best Practices** – Because spaghetti belongs on a plate, not in my codebase.
+- 🏎️ **C++** (Modern C++11/14/17/20) 
+- 🎨 **Qt for GUI and Desktop Applications** 
+- ⚡ **Performance Optimization**
+- 🏗️ **Design Patterns & Best Practices**
 
 
 
@@ -30,5 +30,3 @@ Here is where I showcase my ideas, you know, if I have time to start them.
 
 
 > *"Code is like humor. When you have to explain it, it’s bad."*  
-
-🎉 Thanks for stopping by! Now, back to debugging... 🚀
