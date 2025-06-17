@@ -10,10 +10,10 @@ Always exploring new ways to make my code ~~*less terrible*~~ more performatic!
 
 
 ## 🛠️ My Skills
-- 🏎️ **C++** (Modern C++11/14/17/20) 
-- 🎨 **Qt for GUI and Desktop Applications** 
-- ⚡ **Performance Optimization**
-- 🏗️ **Design Patterns & Best Practices**
+- **C++** (Modern C++11/14/17/20) 
+- **Qt for GUI and Desktop Applications** 
+- **Performance Optimization**
+- **Design Patterns & Best Practices**
 
 
 
